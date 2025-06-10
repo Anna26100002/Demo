@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Subsystem uuid="1d56bc47-6f7a-48f4-9d0a-da81e5a3c9cc">
+		<Properties>
+			<Name>Разное</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Разное</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<UseOneCommand>false</UseOneCommand>
+			<Explanation/>
+			<Picture>
+				<xr:Ref>CommonPicture.Разное</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.НаименованиеФирмы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.КонсольЗапросов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ИНН</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.АдресФирмы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РаботаСТаблицейЗначений</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РаботаСМакетом</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ВидыХарактеристикОбъектов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СвойстваОбъектов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЗначенияСвойствОбъектов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РаботаСХарактеристиками</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ExternalDataSource.Excel.Table.Данные</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РаботаСВнешнимИсточникомДанных</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.АктуальныеКурсыВалют</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.РаботаСТаблицейЗначенийНовый</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects/>
+	</Subsystem>
+</MetaDataObject>

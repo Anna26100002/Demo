@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<ExternalDataSource uuid="fc205f9d-010c-477d-908a-c3c9c29e8f2a">
+		<InternalInfo>
+			<xr:GeneratedType name="ExternalDataSourceManager.Excel" category="Manager">
+				<xr:TypeId>0774213f-4e39-4421-894b-6d4618046533</xr:TypeId>
+				<xr:ValueId>b0da9894-91bc-49b6-831d-5329819c3745</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceTablesManager.Excel" category="TablesManager">
+				<xr:TypeId>f7c1150b-2d71-43bb-a250-5a07a54a682f</xr:TypeId>
+				<xr:ValueId>b47ba13a-cf45-4c2f-b35f-fc022ff06941</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExternalDataSourceCubesManager.Excel" category="CubesManager">
+				<xr:TypeId>3013b737-7ece-4ff2-b865-8a5cafde39bf</xr:TypeId>
+				<xr:ValueId>85fe08cb-083c-45a5-8568-abbf53c2b9d6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Excel</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Excel</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DataLockControlMode>Automatic</DataLockControlMode>
+		</Properties>
+		<ChildObjects>
+			<Table>Данные</Table>
+		</ChildObjects>
+	</ExternalDataSource>
+</MetaDataObject>

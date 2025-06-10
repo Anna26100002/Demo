@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.16">
+	<Item id="0cc05873-caa3-4003-afa3-b40742642c01">
+		<Name>ПРЕТЕНДЕНТЫ</Name>
+		<Code>00001</Code>
+		<Description>ПРЕТЕНДЕНТЫ</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="ce47d69e-810d-4acd-ab6a-0db0b58b6300">
+		<Name>РАБОТАЮЩИЕ</Name>
+		<Code>00002</Code>
+		<Description>РАБОТАЮЩИЕ</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="5ed6a75f-232c-4723-9554-4ab00446cbdf">
+		<Name>УВОЛЕННЫЕ</Name>
+		<Code>00003</Code>
+		<Description>УВОЛЕННЫЕ</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
