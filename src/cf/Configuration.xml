@@ -259,6 +259,7 @@
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>СвойстваОбъектов</Catalog>
+			<Catalog>Справочник1</Catalog>
 			<Document>ЗаказПокупателя</Document>
 			<Document>ПоступлениеТовара</Document>
 			<Document>ПродажаТовара</Document>

@@ -33,6 +33,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РаботаСВнешнимИсточникомДанных</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.АктуальныеКурсыВалют</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РаботаСТаблицейЗначенийНовый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Справочник1</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
